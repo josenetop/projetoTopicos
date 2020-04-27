@@ -5,11 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Projeto Um</name>
   <properties>
-  	<sonar.projectKey>projetoum</sonar.projectKey>
-  	<sonar.organization>projetoum</sonar.organization>
-  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  	<sonar.login>77cdb8152f4a7d162a2ca6f2a0b3f53c33635a82</sonar.login>
-  </properties>
+  <sonar.projectKey>josenetop_projetoTopicos</sonar.projectKey>
+  <sonar.organization>josenetop</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>791c7100e11f0f9b844ee5c8a85b19a3eb3be31f</sonar.login>
+</properties>
   <packaging>war</packaging>
 	
 	<url></url>
